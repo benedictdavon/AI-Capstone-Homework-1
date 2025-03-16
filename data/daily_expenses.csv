@@ -1,0 +1,1062 @@
+Date,Category,Amount_NTD,Description,Payment_Method,Time
+2025-01-01,Meal,100,Lunch meal,Cash,12:00
+2025-01-01,Meal,107,Dinner meal,Cash,19:48
+2025-01-01,Transport,266,Monthly transport expense,,
+2025-01-01,Entertainment,99,Spotify subscription (student),,
+2025-01-01,Entertainment,600,ChatGPT Plus subscription,,
+2025-01-01,Entertainment,200,WuxiaWorld subscription,,
+2025-01-01,Groceries,869,Monthly groceries/household items,,
+2025-01-02,Meal,99,Lunch meal,Cash,12:00
+2025-01-02,Meal,107,Dinner meal,Card,20:57
+2025-01-03,Meal,91,Lunch meal,Card,12:00
+2025-01-03,Meal,104,Dinner meal,Cash,19:49
+2025-01-03,Income,9000,Parents' income for January 2025,,
+2025-01-04,Meal,85,Lunch meal,Cash,12:00
+2025-01-04,Meal,150,Dinner meal,Card,18:17
+2025-01-04,Laundry,60,Weekly laundry expense,,
+2025-01-05,Meal,81,Lunch meal,Cash,12:00
+2025-01-05,Coffee,55,Coffee purchase,Cash,12:29
+2025-01-05,Meal,127,Dinner meal,Cash,20:21
+2025-01-05,Income,1778,Burger King income for January 2025,,
+2025-01-06,Meal,85,Lunch meal,Cash,12:00
+2025-01-06,Meal,145,Dinner meal,Cash,17:54
+2025-01-07,Meal,92,Lunch meal,Card,12:00
+2025-01-07,Coffee,58,Coffee purchase,Card,12:44
+2025-01-07,Meal,103,Dinner meal,Cash,20:34
+2025-01-08,Meal,95,Lunch meal,Cash,12:00
+2025-01-08,Coffee,50,Coffee purchase,Cash,12:47
+2025-01-08,Meal,108,Dinner meal,Cash,20:46
+2025-01-09,Meal,83,Lunch meal,Cash,12:00
+2025-01-09,Coffee,52,Coffee purchase,Cash,12:45
+2025-01-09,Meal,93,Dinner meal,Card,17:41
+2025-01-10,Meal,84,Lunch meal,Cash,12:00
+2025-01-10,Coffee,46,Coffee purchase,Card,12:49
+2025-01-10,Meal,103,Dinner meal,Card,20:17
+2025-01-11,Meal,86,Lunch meal,Cash,12:00
+2025-01-11,Coffee,40,Coffee purchase,Card,12:54
+2025-01-11,Meal,103,Dinner meal,Card,18:41
+2025-01-11,Laundry,60,Weekly laundry expense,,
+2025-01-12,Meal,80,Lunch meal,Cash,12:00
+2025-01-12,Coffee,53,Coffee purchase,Cash,12:21
+2025-01-12,Meal,105,Dinner meal,Card,20:42
+2025-01-13,Meal,91,Lunch meal,Cash,12:00
+2025-01-13,Coffee,52,Coffee purchase,Card,12:58
+2025-01-13,Meal,105,Dinner meal,Card,17:49
+2025-01-14,Meal,82,Lunch meal,Cash,12:00
+2025-01-14,Coffee,48,Coffee purchase,Card,12:44
+2025-01-14,Meal,101,Dinner meal,Cash,17:37
+2025-01-15,Meal,82,Lunch meal,Card,12:00
+2025-01-15,Meal,150,Dinner meal,Card,17:50
+2025-01-16,Meal,89,Lunch meal,Cash,12:00
+2025-01-16,Coffee,53,Coffee purchase,Cash,12:52
+2025-01-16,Meal,125,Dinner meal,Cash,20:52
+2025-01-17,Meal,89,Lunch meal,Card,12:00
+2025-01-17,Meal,108,Dinner meal,Cash,18:27
+2025-01-18,Meal,96,Lunch meal,Cash,12:00
+2025-01-18,Meal,165,Dinner meal,Card,20:29
+2025-01-18,Laundry,60,Weekly laundry expense,,
+2025-01-19,Meal,86,Lunch meal,Card,12:00
+2025-01-19,Meal,233,Dinner meal,Cash,17:17
+2025-01-20,Meal,91,Lunch meal,Cash,12:00
+2025-01-20,Coffee,50,Coffee purchase,Cash,12:21
+2025-01-20,Meal,117,Dinner meal,Cash,20:13
+2025-01-20,Income,6000,Scholarship income for January 2025,,
+2025-01-21,Meal,86,Lunch meal,Cash,12:00
+2025-01-21,Meal,148,Dinner meal,Cash,17:33
+2025-01-22,Meal,99,Lunch meal,Cash,12:00
+2025-01-22,Meal,136,Dinner meal,Cash,20:41
+2025-01-23,Meal,80,Lunch meal,Cash,12:00
+2025-01-23,Coffee,45,Coffee purchase,Cash,12:35
+2025-01-23,Meal,96,Dinner meal,Cash,20:35
+2025-01-24,Meal,99,Lunch meal,Cash,12:00
+2025-01-24,Meal,87,Dinner meal,Cash,19:19
+2025-01-25,Meal,85,Lunch meal,Cash,12:00
+2025-01-25,Meal,132,Dinner meal,Cash,18:12
+2025-01-25,Laundry,60,Weekly laundry expense,,
+2025-01-26,Meal,99,Lunch meal,Card,12:00
+2025-01-26,Meal,225,Dinner meal,Cash,19:06
+2025-01-27,Meal,89,Lunch meal,Cash,12:00
+2025-01-27,Meal,101,Dinner meal,Cash,18:17
+2025-01-28,Meal,87,Lunch meal,Card,12:00
+2025-01-28,Meal,107,Dinner meal,Cash,20:06
+2025-01-29,Meal,92,Lunch meal,Cash,12:00
+2025-01-29,Coffee,45,Coffee purchase,Card,12:23
+2025-01-29,Meal,81,Dinner meal,Cash,17:52
+2025-01-30,Meal,95,Lunch meal,Cash,12:00
+2025-01-30,Coffee,60,Coffee purchase,Cash,12:56
+2025-01-30,Meal,97,Dinner meal,Cash,18:07
+2025-01-31,Meal,95,Lunch meal,Cash,12:00
+2025-01-31,Meal,146,Dinner meal,Cash,20:28
+2025-02-01,Meal,95,Lunch meal,Cash,12:00
+2025-02-01,Meal,245,Dinner meal,Cash,17:39
+2025-02-01,Transport,326,Monthly transport expense,,
+2025-02-01,Entertainment,99,Spotify subscription (student),,
+2025-02-01,Entertainment,600,ChatGPT Plus subscription,,
+2025-02-01,Entertainment,200,WuxiaWorld subscription,,
+2025-02-01,Groceries,514,Monthly groceries/household items,,
+2025-02-01,Gym,1500,Protein powder purchase (2.5kg),,
+2025-02-01,Laundry,60,Weekly laundry expense,,
+2025-02-02,Meal,100,Lunch meal,Cash,12:00
+2025-02-02,Coffee,43,Coffee purchase,Cash,12:25
+2025-02-02,Meal,100,Dinner meal,Cash,17:10
+2025-02-03,Meal,95,Lunch meal,Cash,12:00
+2025-02-03,Coffee,55,Coffee purchase,Cash,12:38
+2025-02-03,Meal,88,Dinner meal,Card,18:59
+2025-02-03,Income,9000,Parents' income for February 2025,,
+2025-02-04,Meal,95,Lunch meal,Card,12:00
+2025-02-04,Coffee,51,Coffee purchase,Cash,12:27
+2025-02-04,Meal,84,Dinner meal,Cash,19:52
+2025-02-05,Meal,100,Lunch meal,Cash,12:00
+2025-02-05,Meal,83,Dinner meal,Cash,19:28
+2025-02-05,Income,3352,Burger King income for February 2025,,
+2025-02-06,Meal,98,Lunch meal,Card,12:00
+2025-02-06,Meal,82,Dinner meal,Cash,20:28
+2025-02-07,Meal,90,Lunch meal,Cash,12:00
+2025-02-07,Coffee,44,Coffee purchase,Cash,12:25
+2025-02-07,Meal,134,Dinner meal,Cash,17:48
+2025-02-08,Meal,80,Lunch meal,Card,12:00
+2025-02-08,Meal,141,Dinner meal,Card,20:58
+2025-02-08,Laundry,60,Weekly laundry expense,,
+2025-02-09,Meal,90,Lunch meal,Card,12:00
+2025-02-09,Meal,120,Dinner meal,Cash,20:22
+2025-02-10,Meal,82,Lunch meal,Cash,12:00
+2025-02-10,Coffee,45,Coffee purchase,Card,12:51
+2025-02-10,Meal,82,Dinner meal,Cash,17:29
+2025-02-11,Meal,82,Lunch meal,Card,12:00
+2025-02-11,Meal,107,Dinner meal,Cash,17:42
+2025-02-12,Meal,80,Lunch meal,Cash,12:00
+2025-02-12,Meal,122,Dinner meal,Cash,20:40
+2025-02-13,Meal,86,Lunch meal,Cash,12:00
+2025-02-13,Coffee,42,Coffee purchase,Card,12:51
+2025-02-13,Meal,85,Dinner meal,Cash,18:45
+2025-02-14,Meal,94,Lunch meal,Cash,12:00
+2025-02-14,Meal,109,Dinner meal,Cash,17:29
+2025-02-15,Meal,83,Lunch meal,Card,12:00
+2025-02-15,Coffee,48,Coffee purchase,Cash,12:37
+2025-02-15,Meal,123,Dinner meal,Cash,20:15
+2025-02-15,Laundry,60,Weekly laundry expense,,
+2025-02-16,Meal,85,Lunch meal,Cash,12:00
+2025-02-16,Meal,110,Dinner meal,Card,18:55
+2025-02-17,Meal,102,Lunch meal,Cash,12:00
+2025-02-17,Meal,80,Dinner meal,Card,19:52
+2025-02-18,Meal,101,Lunch meal,Cash,12:00
+2025-02-18,Meal,96,Dinner meal,Cash,18:28
+2025-02-19,Meal,94,Lunch meal,Cash,12:00
+2025-02-19,Meal,85,Dinner meal,Cash,19:55
+2025-02-20,Meal,95,Lunch meal,Cash,12:00
+2025-02-20,Meal,138,Dinner meal,Card,17:20
+2025-02-20,Income,6000,Scholarship income for February 2025,,
+2025-02-21,Meal,100,Lunch meal,Cash,12:00
+2025-02-21,Meal,149,Dinner meal,Cash,18:31
+2025-02-22,Meal,105,Lunch meal,Cash,12:00
+2025-02-22,Coffee,41,Coffee purchase,Card,12:48
+2025-02-22,Meal,106,Dinner meal,Card,17:46
+2025-02-22,Laundry,60,Weekly laundry expense,,
+2025-02-23,Meal,105,Lunch meal,Cash,12:00
+2025-02-23,Meal,194,Dinner meal,Cash,19:21
+2025-02-24,Meal,81,Lunch meal,Cash,12:00
+2025-02-24,Meal,99,Dinner meal,Card,20:20
+2025-02-25,Meal,92,Lunch meal,Cash,12:00
+2025-02-25,Meal,101,Dinner meal,Cash,18:40
+2025-02-26,Meal,85,Lunch meal,Cash,12:00
+2025-02-26,Meal,108,Dinner meal,Cash,17:28
+2025-02-27,Meal,80,Lunch meal,Cash,12:00
+2025-02-27,Coffee,47,Coffee purchase,Cash,12:42
+2025-02-27,Meal,135,Dinner meal,Cash,20:36
+2025-02-28,Meal,84,Lunch meal,Cash,12:00
+2025-02-28,Coffee,50,Coffee purchase,Cash,12:35
+2025-02-28,Meal,100,Dinner meal,Cash,18:29
+2025-02-28,Income,4775,Office assistant income for January 2025,,
+2025-03-01,Meal,97,Lunch meal,Card,12:00
+2025-03-01,Meal,182,Dinner meal,Cash,19:43
+2025-03-01,Income,9000,Parents' income for March 2025,,
+2025-03-01,Transport,259,Monthly transport expense,,
+2025-03-01,Entertainment,99,Spotify subscription (student),,
+2025-03-01,Entertainment,600,ChatGPT Plus subscription,,
+2025-03-01,Entertainment,200,WuxiaWorld subscription,,
+2025-03-01,Groceries,825,Monthly groceries/household items,,
+2025-03-01,Laundry,60,Weekly laundry expense,,
+2025-03-02,Meal,105,Lunch meal,Card,12:00
+2025-03-02,Coffee,54,Coffee purchase,Cash,12:47
+2025-03-02,Meal,150,Dinner meal,Card,19:12
+2025-03-03,Meal,82,Lunch meal,Cash,12:00
+2025-03-03,Coffee,60,Coffee purchase,Cash,12:38
+2025-03-03,Meal,80,Dinner meal,Card,20:17
+2025-03-04,Meal,100,Lunch meal,Card,12:00
+2025-03-04,Meal,146,Dinner meal,Cash,20:53
+2025-03-05,Meal,100,Lunch meal,Cash,12:00
+2025-03-05,Coffee,53,Coffee purchase,Cash,12:32
+2025-03-05,Meal,82,Dinner meal,Cash,18:40
+2025-03-05,Income,2081,Burger King income for March 2025,,
+2025-03-06,Meal,80,Lunch meal,Card,12:00
+2025-03-06,Coffee,55,Coffee purchase,Cash,12:43
+2025-03-06,Meal,103,Dinner meal,Cash,19:20
+2025-03-07,Meal,83,Lunch meal,Cash,12:00
+2025-03-07,Meal,108,Dinner meal,Card,19:53
+2025-03-08,Meal,105,Lunch meal,Card,12:00
+2025-03-08,Coffee,56,Coffee purchase,Cash,12:41
+2025-03-08,Meal,214,Dinner meal,Cash,17:09
+2025-03-08,Laundry,60,Weekly laundry expense,,
+2025-03-09,Meal,97,Lunch meal,Cash,12:00
+2025-03-09,Coffee,47,Coffee purchase,Card,12:55
+2025-03-09,Meal,180,Dinner meal,Cash,17:16
+2025-03-10,Meal,97,Lunch meal,Cash,12:00
+2025-03-10,Meal,134,Dinner meal,Cash,19:06
+2025-03-11,Meal,95,Lunch meal,Card,12:00
+2025-03-11,Coffee,44,Coffee purchase,Cash,12:59
+2025-03-11,Meal,101,Dinner meal,Cash,20:58
+2025-03-12,Meal,82,Lunch meal,Cash,12:00
+2025-03-12,Coffee,42,Coffee purchase,Cash,12:51
+2025-03-12,Meal,123,Dinner meal,Cash,18:24
+2025-03-13,Meal,99,Lunch meal,Card,12:00
+2025-03-13,Coffee,59,Coffee purchase,Cash,12:29
+2025-03-13,Meal,120,Dinner meal,Card,20:39
+2025-03-14,Meal,80,Lunch meal,Cash,12:00
+2025-03-14,Meal,90,Dinner meal,Card,18:54
+2025-03-15,Meal,89,Lunch meal,Card,12:00
+2025-03-15,Meal,141,Dinner meal,Card,17:25
+2025-03-15,Laundry,60,Weekly laundry expense,,
+2025-03-16,Meal,105,Lunch meal,Card,12:00
+2025-03-16,Coffee,53,Coffee purchase,Cash,12:33
+2025-03-16,Meal,140,Dinner meal,Cash,17:03
+2025-03-17,Meal,83,Lunch meal,Cash,12:00
+2025-03-17,Coffee,44,Coffee purchase,Cash,12:55
+2025-03-17,Meal,140,Dinner meal,Card,18:21
+2025-03-18,Meal,95,Lunch meal,Cash,12:00
+2025-03-18,Meal,87,Dinner meal,Cash,18:34
+2025-03-19,Meal,97,Lunch meal,Cash,12:00
+2025-03-19,Coffee,52,Coffee purchase,Cash,12:35
+2025-03-19,Meal,83,Dinner meal,Cash,19:03
+2025-03-20,Meal,82,Lunch meal,Cash,12:00
+2025-03-20,Meal,98,Dinner meal,Cash,19:32
+2025-03-20,Income,6000,Scholarship income for March 2025,,
+2025-03-21,Meal,85,Lunch meal,Cash,12:00
+2025-03-21,Meal,100,Dinner meal,Cash,19:29
+2025-03-22,Meal,105,Lunch meal,Card,12:00
+2025-03-22,Coffee,50,Coffee purchase,Card,12:26
+2025-03-22,Meal,104,Dinner meal,Cash,17:57
+2025-03-22,Food & Drink,700,Korean BBQ with friends,,Evening
+2025-03-22,Laundry,60,Weekly laundry expense,,
+2025-03-23,Meal,81,Lunch meal,Cash,12:00
+2025-03-23,Meal,150,Dinner meal,Cash,19:24
+2025-03-24,Meal,91,Lunch meal,Cash,12:00
+2025-03-24,Coffee,58,Coffee purchase,Cash,12:27
+2025-03-24,Meal,122,Dinner meal,Cash,18:27
+2025-03-25,Meal,88,Lunch meal,Cash,12:00
+2025-03-25,Coffee,46,Coffee purchase,Cash,12:26
+2025-03-25,Meal,110,Dinner meal,Cash,19:23
+2025-03-26,Meal,92,Lunch meal,Cash,12:00
+2025-03-26,Coffee,41,Coffee purchase,Card,12:47
+2025-03-26,Meal,102,Dinner meal,Card,18:35
+2025-03-27,Meal,94,Lunch meal,Cash,12:00
+2025-03-27,Coffee,58,Coffee purchase,Card,12:47
+2025-03-27,Meal,115,Dinner meal,Cash,19:38
+2025-03-28,Meal,93,Lunch meal,Cash,12:00
+2025-03-28,Meal,143,Dinner meal,Cash,17:22
+2025-03-29,Meal,100,Lunch meal,Cash,12:00
+2025-03-29,Meal,240,Dinner meal,Card,17:38
+2025-03-29,Income,4586,Office assistant income for February 2025,,
+2025-03-29,Laundry,60,Weekly laundry expense,,
+2025-03-30,Meal,86,Lunch meal,Cash,12:00
+2025-03-30,Meal,117,Dinner meal,Cash,19:58
+2025-03-31,Meal,102,Lunch meal,Cash,12:00
+2025-03-31,Coffee,55,Coffee purchase,Card,12:29
+2025-03-31,Meal,96,Dinner meal,Cash,17:47
+2025-04-01,Meal,91,Lunch meal,Cash,12:00
+2025-04-01,Coffee,56,Coffee purchase,Cash,12:40
+2025-04-01,Meal,80,Dinner meal,Cash,17:56
+2025-04-01,Transport,444,Monthly transport expense,,
+2025-04-01,Entertainment,99,Spotify subscription (student),,
+2025-04-01,Entertainment,600,ChatGPT Plus subscription,,
+2025-04-01,Entertainment,200,WuxiaWorld subscription,,
+2025-04-01,Groceries,502,Monthly groceries/household items,,
+2025-04-01,Gym,600,Creatine purchase,,
+2025-04-02,Meal,95,Lunch meal,Cash,12:00
+2025-04-02,Coffee,50,Coffee purchase,Cash,12:47
+2025-04-02,Meal,138,Dinner meal,Cash,19:13
+2025-04-03,Meal,90,Lunch meal,Cash,12:00
+2025-04-03,Meal,134,Dinner meal,Cash,20:33
+2025-04-03,Income,9000,Parents' income for April 2025,,
+2025-04-04,Meal,90,Lunch meal,Cash,12:00
+2025-04-04,Coffee,60,Coffee purchase,Card,12:39
+2025-04-04,Meal,90,Dinner meal,Cash,19:18
+2025-04-05,Meal,99,Lunch meal,Cash,12:00
+2025-04-05,Coffee,50,Coffee purchase,Card,12:34
+2025-04-05,Meal,120,Dinner meal,Card,19:04
+2025-04-05,Income,2549,Burger King income for April 2025,,
+2025-04-05,Laundry,60,Weekly laundry expense,,
+2025-04-06,Meal,90,Lunch meal,Cash,12:00
+2025-04-06,Coffee,51,Coffee purchase,Cash,12:40
+2025-04-06,Meal,105,Dinner meal,Cash,20:18
+2025-04-07,Meal,88,Lunch meal,Card,12:00
+2025-04-07,Meal,93,Dinner meal,Cash,19:05
+2025-04-08,Meal,90,Lunch meal,Cash,12:00
+2025-04-08,Coffee,55,Coffee purchase,Cash,12:39
+2025-04-08,Meal,95,Dinner meal,Cash,18:04
+2025-04-09,Meal,93,Lunch meal,Card,12:00
+2025-04-09,Coffee,45,Coffee purchase,Cash,12:29
+2025-04-09,Meal,98,Dinner meal,Card,18:11
+2025-04-10,Meal,96,Lunch meal,Cash,12:00
+2025-04-10,Meal,103,Dinner meal,Card,20:29
+2025-04-11,Meal,91,Lunch meal,Card,12:00
+2025-04-11,Meal,110,Dinner meal,Cash,19:55
+2025-04-12,Meal,91,Lunch meal,Cash,12:00
+2025-04-12,Meal,102,Dinner meal,Cash,19:37
+2025-04-12,Laundry,60,Weekly laundry expense,,
+2025-04-13,Meal,87,Lunch meal,Cash,12:00
+2025-04-13,Coffee,40,Coffee purchase,Card,12:38
+2025-04-13,Meal,130,Dinner meal,Cash,17:39
+2025-04-14,Meal,95,Lunch meal,Card,12:00
+2025-04-14,Meal,108,Dinner meal,Cash,17:28
+2025-04-15,Meal,85,Lunch meal,Cash,12:00
+2025-04-15,Meal,105,Dinner meal,Card,17:28
+2025-04-16,Meal,88,Lunch meal,Card,12:00
+2025-04-16,Meal,87,Dinner meal,Cash,18:02
+2025-04-17,Meal,91,Lunch meal,Cash,12:00
+2025-04-17,Coffee,59,Coffee purchase,Cash,12:43
+2025-04-17,Meal,98,Dinner meal,Card,19:43
+2025-04-18,Meal,96,Lunch meal,Cash,12:00
+2025-04-18,Coffee,45,Coffee purchase,Card,12:44
+2025-04-18,Meal,82,Dinner meal,Cash,18:21
+2025-04-19,Meal,104,Lunch meal,Cash,12:00
+2025-04-19,Meal,190,Dinner meal,Card,20:08
+2025-04-19,Laundry,60,Weekly laundry expense,,
+2025-04-20,Meal,87,Lunch meal,Cash,12:00
+2025-04-20,Meal,135,Dinner meal,Card,18:42
+2025-04-20,Income,6000,Scholarship income for April 2025,,
+2025-04-21,Meal,105,Lunch meal,Card,12:00
+2025-04-21,Coffee,50,Coffee purchase,Cash,12:47
+2025-04-21,Meal,148,Dinner meal,Cash,19:11
+2025-04-22,Meal,100,Lunch meal,Cash,12:00
+2025-04-22,Meal,115,Dinner meal,Card,18:04
+2025-04-23,Meal,93,Lunch meal,Cash,12:00
+2025-04-23,Meal,90,Dinner meal,Card,17:42
+2025-04-24,Meal,83,Lunch meal,Cash,12:00
+2025-04-24,Coffee,57,Coffee purchase,Cash,12:59
+2025-04-24,Meal,120,Dinner meal,Cash,20:02
+2025-04-25,Meal,85,Lunch meal,Cash,12:00
+2025-04-25,Coffee,45,Coffee purchase,Cash,12:48
+2025-04-25,Meal,142,Dinner meal,Cash,20:57
+2025-04-26,Meal,105,Lunch meal,Card,12:00
+2025-04-26,Meal,157,Dinner meal,Cash,19:49
+2025-04-26,Laundry,60,Weekly laundry expense,,
+2025-04-27,Meal,105,Lunch meal,Card,12:00
+2025-04-27,Meal,112,Dinner meal,Cash,18:55
+2025-04-28,Meal,102,Lunch meal,Cash,12:00
+2025-04-28,Coffee,58,Coffee purchase,Cash,12:53
+2025-04-28,Meal,122,Dinner meal,Cash,18:17
+2025-04-29,Meal,101,Lunch meal,Cash,12:00
+2025-04-29,Meal,117,Dinner meal,Cash,20:56
+2025-04-29,Income,4525,Office assistant income for March 2025,,
+2025-04-30,Meal,80,Lunch meal,Cash,12:00
+2025-04-30,Coffee,47,Coffee purchase,Cash,12:25
+2025-04-30,Meal,102,Dinner meal,Cash,17:53
+2025-05-01,Meal,83,Lunch meal,Cash,12:00
+2025-05-01,Meal,105,Dinner meal,Card,20:44
+2025-05-01,Income,9000,Parents' income for May 2025,,
+2025-05-01,Transport,264,Monthly transport expense,,
+2025-05-01,Entertainment,99,Spotify subscription (student),,
+2025-05-01,Entertainment,600,ChatGPT Plus subscription,,
+2025-05-01,Entertainment,200,WuxiaWorld subscription,,
+2025-05-01,Groceries,882,Monthly groceries/household items,,
+2025-05-01,Gym,1500,Protein powder purchase (2.5kg),,
+2025-05-02,Meal,92,Lunch meal,Cash,12:00
+2025-05-02,Meal,86,Dinner meal,Cash,17:16
+2025-05-03,Meal,105,Lunch meal,Cash,12:00
+2025-05-03,Coffee,45,Coffee purchase,Cash,12:38
+2025-05-03,Meal,196,Dinner meal,Cash,18:26
+2025-05-03,Laundry,60,Weekly laundry expense,,
+2025-05-04,Meal,81,Lunch meal,Card,12:00
+2025-05-04,Meal,125,Dinner meal,Cash,17:40
+2025-05-05,Meal,83,Lunch meal,Cash,12:00
+2025-05-05,Meal,92,Dinner meal,Cash,18:36
+2025-05-05,Income,3245,Burger King income for May 2025,,
+2025-05-06,Meal,81,Lunch meal,Card,12:00
+2025-05-06,Coffee,51,Coffee purchase,Card,12:53
+2025-05-06,Meal,107,Dinner meal,Cash,17:24
+2025-05-07,Meal,90,Lunch meal,Cash,12:00
+2025-05-07,Meal,81,Dinner meal,Cash,19:50
+2025-05-08,Meal,97,Lunch meal,Cash,12:00
+2025-05-08,Meal,80,Dinner meal,Cash,19:08
+2025-05-09,Meal,101,Lunch meal,Cash,12:00
+2025-05-09,Meal,95,Dinner meal,Cash,20:44
+2025-05-10,Meal,83,Lunch meal,Card,12:00
+2025-05-10,Meal,110,Dinner meal,Card,17:18
+2025-05-10,Laundry,60,Weekly laundry expense,,
+2025-05-11,Meal,103,Lunch meal,Cash,12:00
+2025-05-11,Coffee,60,Coffee purchase,Cash,12:45
+2025-05-11,Meal,214,Dinner meal,Cash,19:02
+2025-05-12,Meal,89,Lunch meal,Card,12:00
+2025-05-12,Meal,105,Dinner meal,Cash,19:17
+2025-05-13,Meal,103,Lunch meal,Card,12:00
+2025-05-13,Meal,150,Dinner meal,Cash,20:21
+2025-05-14,Meal,92,Lunch meal,Card,12:00
+2025-05-14,Meal,121,Dinner meal,Cash,17:46
+2025-05-15,Meal,105,Lunch meal,Cash,12:00
+2025-05-15,Coffee,41,Coffee purchase,Cash,12:26
+2025-05-15,Meal,130,Dinner meal,Cash,19:28
+2025-05-16,Meal,98,Lunch meal,Cash,12:00
+2025-05-16,Coffee,52,Coffee purchase,Cash,12:42
+2025-05-16,Meal,100,Dinner meal,Cash,17:04
+2025-05-17,Meal,93,Lunch meal,Card,12:00
+2025-05-17,Coffee,42,Coffee purchase,Cash,12:21
+2025-05-17,Meal,105,Dinner meal,Cash,20:02
+2025-05-17,Laundry,60,Weekly laundry expense,,
+2025-05-18,Meal,96,Lunch meal,Cash,12:00
+2025-05-18,Meal,122,Dinner meal,Cash,17:38
+2025-05-19,Meal,89,Lunch meal,Cash,12:00
+2025-05-19,Coffee,50,Coffee purchase,Cash,12:28
+2025-05-19,Meal,110,Dinner meal,Cash,19:15
+2025-05-20,Meal,84,Lunch meal,Cash,12:00
+2025-05-20,Meal,140,Dinner meal,Card,17:16
+2025-05-20,Income,6000,Scholarship income for May 2025,,
+2025-05-21,Meal,85,Lunch meal,Cash,12:00
+2025-05-21,Meal,83,Dinner meal,Card,20:12
+2025-05-22,Meal,91,Lunch meal,Card,12:00
+2025-05-22,Meal,100,Dinner meal,Card,17:51
+2025-05-23,Meal,88,Lunch meal,Cash,12:00
+2025-05-23,Coffee,45,Coffee purchase,Cash,12:54
+2025-05-23,Meal,101,Dinner meal,Card,18:45
+2025-05-24,Meal,84,Lunch meal,Cash,12:00
+2025-05-24,Coffee,56,Coffee purchase,Cash,12:32
+2025-05-24,Meal,154,Dinner meal,Cash,20:01
+2025-05-24,Laundry,60,Weekly laundry expense,,
+2025-05-25,Meal,91,Lunch meal,Card,12:00
+2025-05-25,Coffee,40,Coffee purchase,Cash,12:25
+2025-05-25,Meal,120,Dinner meal,Cash,20:33
+2025-05-26,Meal,95,Lunch meal,Cash,12:00
+2025-05-26,Coffee,49,Coffee purchase,Cash,12:24
+2025-05-26,Meal,145,Dinner meal,Card,19:08
+2025-05-27,Meal,96,Lunch meal,Cash,12:00
+2025-05-27,Meal,108,Dinner meal,Cash,20:32
+2025-05-28,Meal,82,Lunch meal,Cash,12:00
+2025-05-28,Coffee,60,Coffee purchase,Cash,12:40
+2025-05-28,Meal,81,Dinner meal,Cash,19:54
+2025-05-28,Income,5090,Office assistant income for April 2025,,
+2025-05-29,Meal,105,Lunch meal,Cash,12:00
+2025-05-29,Meal,100,Dinner meal,Cash,17:32
+2025-05-30,Meal,95,Lunch meal,Cash,12:00
+2025-05-30,Meal,109,Dinner meal,Cash,19:53
+2025-05-31,Meal,102,Lunch meal,Cash,12:00
+2025-05-31,Meal,110,Dinner meal,Cash,19:41
+2025-05-31,Laundry,60,Weekly laundry expense,,
+2025-06-01,Meal,95,Lunch meal,Cash,12:00
+2025-06-01,Meal,245,Dinner meal,Cash,19:41
+2025-06-01,Income,9000,Parents' income for June 2025,,
+2025-06-01,Transport,303,Monthly transport expense,,
+2025-06-01,Entertainment,99,Spotify subscription (student),,
+2025-06-01,Entertainment,600,ChatGPT Plus subscription,,
+2025-06-01,Entertainment,200,WuxiaWorld subscription,,
+2025-06-01,Groceries,632,Monthly groceries/household items,,
+2025-06-01,Gym,600,Creatine purchase,,
+2025-06-02,Meal,100,Lunch meal,Cash,12:00
+2025-06-02,Coffee,54,Coffee purchase,Cash,12:24
+2025-06-02,Meal,94,Dinner meal,Cash,20:30
+2025-06-03,Meal,83,Lunch meal,Card,12:00
+2025-06-03,Coffee,60,Coffee purchase,Cash,12:42
+2025-06-03,Meal,97,Dinner meal,Cash,19:32
+2025-06-04,Meal,91,Lunch meal,Cash,12:00
+2025-06-04,Coffee,40,Coffee purchase,Card,12:26
+2025-06-04,Meal,149,Dinner meal,Card,20:15
+2025-06-05,Meal,101,Lunch meal,Card,12:00
+2025-06-05,Meal,85,Dinner meal,Card,18:48
+2025-06-05,Income,1731,Burger King income for June 2025,,
+2025-06-06,Meal,91,Lunch meal,Card,12:00
+2025-06-06,Meal,125,Dinner meal,Card,17:25
+2025-06-07,Meal,85,Lunch meal,Cash,12:00
+2025-06-07,Coffee,52,Coffee purchase,Card,12:51
+2025-06-07,Meal,127,Dinner meal,Card,20:18
+2025-06-07,Laundry,60,Weekly laundry expense,,
+2025-06-08,Meal,90,Lunch meal,Card,12:00
+2025-06-08,Meal,106,Dinner meal,Cash,20:23
+2025-06-09,Meal,94,Lunch meal,Cash,12:00
+2025-06-09,Coffee,50,Coffee purchase,Card,12:44
+2025-06-09,Meal,110,Dinner meal,Cash,19:52
+2025-06-10,Meal,82,Lunch meal,Card,12:00
+2025-06-10,Coffee,51,Coffee purchase,Cash,12:41
+2025-06-10,Meal,130,Dinner meal,Cash,18:12
+2025-06-11,Meal,80,Lunch meal,Cash,12:00
+2025-06-11,Meal,123,Dinner meal,Cash,20:33
+2025-06-12,Meal,93,Lunch meal,Cash,12:00
+2025-06-12,Meal,110,Dinner meal,Card,18:25
+2025-06-13,Meal,87,Lunch meal,Cash,12:00
+2025-06-13,Meal,128,Dinner meal,Cash,20:45
+2025-06-14,Meal,80,Lunch meal,Cash,12:00
+2025-06-14,Coffee,52,Coffee purchase,Card,12:46
+2025-06-14,Meal,171,Dinner meal,Card,17:38
+2025-06-14,Laundry,60,Weekly laundry expense,,
+2025-06-15,Meal,100,Lunch meal,Card,12:00
+2025-06-15,Meal,172,Dinner meal,Cash,17:37
+2025-06-16,Meal,99,Lunch meal,Card,12:00
+2025-06-16,Coffee,40,Coffee purchase,Card,12:35
+2025-06-16,Meal,100,Dinner meal,Cash,17:12
+2025-06-17,Meal,83,Lunch meal,Cash,12:00
+2025-06-17,Coffee,59,Coffee purchase,Card,12:59
+2025-06-17,Meal,84,Dinner meal,Cash,17:45
+2025-06-18,Meal,88,Lunch meal,Cash,12:00
+2025-06-18,Meal,94,Dinner meal,Cash,19:11
+2025-06-19,Meal,94,Lunch meal,Cash,12:00
+2025-06-19,Meal,95,Dinner meal,Card,19:39
+2025-06-20,Meal,86,Lunch meal,Cash,12:00
+2025-06-20,Meal,114,Dinner meal,Cash,19:49
+2025-06-20,Income,6000,Scholarship income for June 2025,,
+2025-06-21,Meal,98,Lunch meal,Cash,12:00
+2025-06-21,Coffee,45,Coffee purchase,Cash,12:37
+2025-06-21,Meal,248,Dinner meal,Card,20:57
+2025-06-21,Laundry,60,Weekly laundry expense,,
+2025-06-22,Meal,105,Lunch meal,Card,12:00
+2025-06-22,Coffee,60,Coffee purchase,Cash,12:38
+2025-06-22,Meal,112,Dinner meal,Cash,20:41
+2025-06-23,Meal,85,Lunch meal,Cash,12:00
+2025-06-23,Meal,105,Dinner meal,Card,19:08
+2025-06-24,Meal,85,Lunch meal,Cash,12:00
+2025-06-24,Meal,86,Dinner meal,Cash,18:40
+2025-06-25,Meal,88,Lunch meal,Cash,12:00
+2025-06-25,Meal,149,Dinner meal,Card,18:00
+2025-06-26,Meal,84,Lunch meal,Cash,12:00
+2025-06-26,Meal,133,Dinner meal,Card,20:30
+2025-06-27,Meal,87,Lunch meal,Cash,12:00
+2025-06-27,Coffee,53,Coffee purchase,Cash,12:25
+2025-06-27,Meal,109,Dinner meal,Cash,17:58
+2025-06-27,Income,4778,Office assistant income for May 2025,,
+2025-06-28,Meal,101,Lunch meal,Card,12:00
+2025-06-28,Coffee,56,Coffee purchase,Cash,12:45
+2025-06-28,Meal,101,Dinner meal,Cash,19:56
+2025-06-28,Laundry,60,Weekly laundry expense,,
+2025-06-29,Meal,95,Lunch meal,Card,12:00
+2025-06-29,Coffee,60,Coffee purchase,Cash,12:49
+2025-06-29,Meal,241,Dinner meal,Card,20:56
+2025-06-30,Meal,91,Lunch meal,Cash,12:00
+2025-06-30,Coffee,55,Coffee purchase,Cash,12:30
+2025-06-30,Meal,102,Dinner meal,Card,18:00
+2025-07-01,Meal,95,Lunch meal,Card,12:00
+2025-07-01,Coffee,57,Coffee purchase,Cash,12:45
+2025-07-01,Meal,100,Dinner meal,Cash,17:25
+2025-07-01,Income,9000,Parents' income for July 2025,,
+2025-07-01,Transport,477,Monthly transport expense,,
+2025-07-01,Entertainment,99,Spotify subscription (student),,
+2025-07-01,Entertainment,600,ChatGPT Plus subscription,,
+2025-07-01,Entertainment,200,WuxiaWorld subscription,,
+2025-07-01,Groceries,539,Monthly groceries/household items,,
+2025-07-02,Meal,83,Lunch meal,Cash,12:00
+2025-07-02,Coffee,47,Coffee purchase,Cash,12:36
+2025-07-02,Meal,115,Dinner meal,Card,19:21
+2025-07-03,Meal,80,Lunch meal,Cash,12:00
+2025-07-03,Meal,105,Dinner meal,Cash,17:42
+2025-07-04,Meal,90,Lunch meal,Cash,12:00
+2025-07-04,Meal,105,Dinner meal,Card,19:44
+2025-07-05,Meal,87,Lunch meal,Cash,12:00
+2025-07-05,Coffee,50,Coffee purchase,Cash,12:28
+2025-07-05,Meal,205,Dinner meal,Card,19:26
+2025-07-05,Income,3325,Burger King income for July 2025,,
+2025-07-05,Laundry,60,Weekly laundry expense,,
+2025-07-06,Meal,100,Lunch meal,Card,12:00
+2025-07-06,Meal,214,Dinner meal,Card,18:43
+2025-07-07,Meal,81,Lunch meal,Cash,12:00
+2025-07-07,Meal,97,Dinner meal,Cash,17:58
+2025-07-08,Meal,94,Lunch meal,Cash,12:00
+2025-07-08,Meal,116,Dinner meal,Cash,18:10
+2025-07-09,Meal,82,Lunch meal,Cash,12:00
+2025-07-09,Meal,125,Dinner meal,Card,17:57
+2025-07-10,Meal,91,Lunch meal,Cash,12:00
+2025-07-10,Meal,94,Dinner meal,Card,17:35
+2025-07-11,Meal,99,Lunch meal,Cash,12:00
+2025-07-11,Meal,81,Dinner meal,Cash,18:37
+2025-07-12,Meal,98,Lunch meal,Cash,12:00
+2025-07-12,Coffee,60,Coffee purchase,Cash,12:24
+2025-07-12,Meal,126,Dinner meal,Cash,19:26
+2025-07-12,Laundry,60,Weekly laundry expense,,
+2025-07-13,Meal,96,Lunch meal,Card,12:00
+2025-07-13,Meal,157,Dinner meal,Card,19:57
+2025-07-14,Meal,104,Lunch meal,Cash,12:00
+2025-07-14,Meal,106,Dinner meal,Cash,18:41
+2025-07-15,Meal,105,Lunch meal,Cash,12:00
+2025-07-15,Coffee,57,Coffee purchase,Card,12:34
+2025-07-15,Meal,134,Dinner meal,Cash,19:29
+2025-07-16,Meal,94,Lunch meal,Card,12:00
+2025-07-16,Coffee,43,Coffee purchase,Cash,12:42
+2025-07-16,Meal,105,Dinner meal,Cash,17:02
+2025-07-17,Meal,100,Lunch meal,Card,12:00
+2025-07-17,Coffee,40,Coffee purchase,Cash,12:33
+2025-07-17,Meal,134,Dinner meal,Card,20:38
+2025-07-18,Meal,85,Lunch meal,Cash,12:00
+2025-07-18,Meal,106,Dinner meal,Cash,18:48
+2025-07-19,Meal,93,Lunch meal,Cash,12:00
+2025-07-19,Meal,190,Dinner meal,Cash,19:36
+2025-07-19,Laundry,60,Weekly laundry expense,,
+2025-07-20,Meal,88,Lunch meal,Cash,12:00
+2025-07-20,Coffee,44,Coffee purchase,Cash,12:53
+2025-07-20,Meal,148,Dinner meal,Card,17:35
+2025-07-20,Income,6000,Scholarship income for July 2025,,
+2025-07-21,Meal,104,Lunch meal,Cash,12:00
+2025-07-21,Coffee,40,Coffee purchase,Cash,12:51
+2025-07-21,Meal,126,Dinner meal,Cash,20:50
+2025-07-22,Meal,90,Lunch meal,Cash,12:00
+2025-07-22,Coffee,50,Coffee purchase,Card,12:54
+2025-07-22,Meal,135,Dinner meal,Card,19:54
+2025-07-23,Meal,104,Lunch meal,Cash,12:00
+2025-07-23,Meal,87,Dinner meal,Cash,18:24
+2025-07-24,Meal,96,Lunch meal,Card,12:00
+2025-07-24,Meal,136,Dinner meal,Cash,17:34
+2025-07-25,Meal,86,Lunch meal,Cash,12:00
+2025-07-25,Meal,105,Dinner meal,Cash,17:12
+2025-07-25,Income,4859,Office assistant income for June 2025,,
+2025-07-26,Meal,97,Lunch meal,Cash,12:00
+2025-07-26,Coffee,45,Coffee purchase,Card,12:41
+2025-07-26,Meal,128,Dinner meal,Card,18:59
+2025-07-26,Laundry,60,Weekly laundry expense,,
+2025-07-27,Meal,99,Lunch meal,Card,12:00
+2025-07-27,Meal,146,Dinner meal,Cash,18:25
+2025-07-28,Meal,100,Lunch meal,Cash,12:00
+2025-07-28,Meal,87,Dinner meal,Cash,19:19
+2025-07-29,Meal,92,Lunch meal,Cash,12:00
+2025-07-29,Meal,143,Dinner meal,Card,20:48
+2025-07-30,Meal,89,Lunch meal,Cash,12:00
+2025-07-30,Meal,84,Dinner meal,Cash,18:47
+2025-07-31,Meal,104,Lunch meal,Cash,12:00
+2025-07-31,Coffee,44,Coffee purchase,Cash,12:29
+2025-07-31,Meal,96,Dinner meal,Card,18:31
+2025-08-01,Meal,88,Lunch meal,Card,12:00
+2025-08-01,Meal,85,Dinner meal,Card,20:29
+2025-08-01,Transport,308,Monthly transport expense,,
+2025-08-01,Entertainment,99,Spotify subscription (student),,
+2025-08-01,Entertainment,600,ChatGPT Plus subscription,,
+2025-08-01,Entertainment,200,WuxiaWorld subscription,,
+2025-08-01,Groceries,595,Monthly groceries/household items,,
+2025-08-02,Meal,84,Lunch meal,Card,12:00
+2025-08-02,Meal,101,Dinner meal,Card,17:33
+2025-08-02,Income,9000,Parents' income for August 2025,,
+2025-08-02,Laundry,60,Weekly laundry expense,,
+2025-08-03,Meal,105,Lunch meal,Cash,12:00
+2025-08-03,Meal,143,Dinner meal,Cash,20:08
+2025-08-04,Meal,98,Lunch meal,Cash,12:00
+2025-08-04,Meal,131,Dinner meal,Cash,19:03
+2025-08-05,Meal,95,Lunch meal,Cash,12:00
+2025-08-05,Meal,128,Dinner meal,Cash,17:34
+2025-08-05,Income,3574,Burger King income for August 2025,,
+2025-08-06,Meal,93,Lunch meal,Cash,12:00
+2025-08-06,Meal,105,Dinner meal,Cash,17:32
+2025-08-07,Meal,100,Lunch meal,Card,12:00
+2025-08-07,Coffee,50,Coffee purchase,Cash,12:26
+2025-08-07,Meal,90,Dinner meal,Card,19:52
+2025-08-08,Meal,81,Lunch meal,Card,12:00
+2025-08-08,Meal,111,Dinner meal,Cash,18:44
+2025-08-09,Meal,102,Lunch meal,Cash,12:00
+2025-08-09,Meal,160,Dinner meal,Cash,17:05
+2025-08-09,Laundry,60,Weekly laundry expense,,
+2025-08-10,Meal,92,Lunch meal,Cash,12:00
+2025-08-10,Meal,227,Dinner meal,Cash,17:31
+2025-08-11,Meal,88,Lunch meal,Card,12:00
+2025-08-11,Meal,110,Dinner meal,Card,17:14
+2025-08-12,Meal,103,Lunch meal,Cash,12:00
+2025-08-12,Coffee,54,Coffee purchase,Cash,12:24
+2025-08-12,Meal,147,Dinner meal,Cash,17:11
+2025-08-13,Meal,105,Lunch meal,Cash,12:00
+2025-08-13,Meal,103,Dinner meal,Cash,20:59
+2025-08-14,Meal,85,Lunch meal,Card,12:00
+2025-08-14,Coffee,46,Coffee purchase,Card,12:54
+2025-08-14,Meal,110,Dinner meal,Card,18:50
+2025-08-15,Meal,93,Lunch meal,Card,12:00
+2025-08-15,Coffee,45,Coffee purchase,Cash,12:47
+2025-08-15,Meal,90,Dinner meal,Cash,20:49
+2025-08-16,Meal,100,Lunch meal,Cash,12:00
+2025-08-16,Coffee,60,Coffee purchase,Cash,12:55
+2025-08-16,Meal,216,Dinner meal,Cash,20:05
+2025-08-16,Laundry,60,Weekly laundry expense,,
+2025-08-17,Meal,85,Lunch meal,Cash,12:00
+2025-08-17,Coffee,55,Coffee purchase,Cash,12:44
+2025-08-17,Meal,154,Dinner meal,Cash,20:20
+2025-08-18,Meal,105,Lunch meal,Cash,12:00
+2025-08-18,Meal,82,Dinner meal,Cash,17:08
+2025-08-19,Meal,94,Lunch meal,Cash,12:00
+2025-08-19,Coffee,47,Coffee purchase,Cash,12:25
+2025-08-19,Meal,119,Dinner meal,Cash,19:55
+2025-08-20,Meal,90,Lunch meal,Cash,12:00
+2025-08-20,Meal,126,Dinner meal,Cash,18:36
+2025-08-20,Income,6000,Scholarship income for August 2025,,
+2025-08-21,Meal,84,Lunch meal,Cash,12:00
+2025-08-21,Coffee,40,Coffee purchase,Cash,12:29
+2025-08-21,Meal,125,Dinner meal,Cash,20:19
+2025-08-22,Meal,86,Lunch meal,Cash,12:00
+2025-08-22,Meal,83,Dinner meal,Cash,18:29
+2025-08-23,Meal,105,Lunch meal,Cash,12:00
+2025-08-23,Meal,150,Dinner meal,Card,19:28
+2025-08-23,Laundry,60,Weekly laundry expense,,
+2025-08-24,Meal,102,Lunch meal,Card,12:00
+2025-08-24,Coffee,52,Coffee purchase,Cash,12:40
+2025-08-24,Meal,126,Dinner meal,Cash,20:20
+2025-08-25,Meal,88,Lunch meal,Card,12:00
+2025-08-25,Meal,91,Dinner meal,Card,18:20
+2025-08-26,Meal,90,Lunch meal,Cash,12:00
+2025-08-26,Meal,139,Dinner meal,Cash,18:43
+2025-08-27,Meal,99,Lunch meal,Card,12:00
+2025-08-27,Coffee,57,Coffee purchase,Cash,12:38
+2025-08-27,Meal,125,Dinner meal,Cash,20:43
+2025-08-28,Meal,85,Lunch meal,Cash,12:00
+2025-08-28,Meal,122,Dinner meal,Cash,20:04
+2025-08-29,Meal,95,Lunch meal,Cash,12:00
+2025-08-29,Meal,80,Dinner meal,Card,20:34
+2025-08-29,Income,4625,Office assistant income for July 2025,,
+2025-08-30,Meal,98,Lunch meal,Card,12:00
+2025-08-30,Meal,215,Dinner meal,Cash,17:06
+2025-08-30,Laundry,60,Weekly laundry expense,,
+2025-08-31,Meal,89,Lunch meal,Cash,12:00
+2025-08-31,Coffee,60,Coffee purchase,Cash,12:45
+2025-08-31,Meal,100,Dinner meal,Cash,20:06
+2025-09-01,Meal,93,Lunch meal,Cash,12:00
+2025-09-01,Meal,91,Dinner meal,Cash,18:28
+2025-09-01,Income,9000,Parents' income for September 2025,,
+2025-09-01,Transport,496,Monthly transport expense,,
+2025-09-01,Entertainment,99,Spotify subscription (student),,
+2025-09-01,Entertainment,600,ChatGPT Plus subscription,,
+2025-09-01,Entertainment,200,WuxiaWorld subscription,,
+2025-09-01,Groceries,928,Monthly groceries/household items,,
+2025-09-02,Meal,97,Lunch meal,Cash,12:00
+2025-09-02,Coffee,50,Coffee purchase,Cash,12:21
+2025-09-02,Meal,142,Dinner meal,Card,17:07
+2025-09-03,Meal,89,Lunch meal,Cash,12:00
+2025-09-03,Meal,95,Dinner meal,Cash,20:22
+2025-09-04,Meal,98,Lunch meal,Cash,12:00
+2025-09-04,Coffee,40,Coffee purchase,Cash,12:27
+2025-09-04,Meal,105,Dinner meal,Card,17:43
+2025-09-05,Meal,99,Lunch meal,Cash,12:00
+2025-09-05,Meal,93,Dinner meal,Cash,19:35
+2025-09-05,Income,1614,Burger King income for September 2025,,
+2025-09-06,Meal,100,Lunch meal,Cash,12:00
+2025-09-06,Coffee,48,Coffee purchase,Card,12:47
+2025-09-06,Meal,189,Dinner meal,Cash,18:28
+2025-09-06,Laundry,60,Weekly laundry expense,,
+2025-09-07,Meal,98,Lunch meal,Cash,12:00
+2025-09-07,Meal,115,Dinner meal,Card,17:36
+2025-09-08,Meal,84,Lunch meal,Cash,12:00
+2025-09-08,Meal,144,Dinner meal,Cash,19:42
+2025-09-09,Meal,96,Lunch meal,Cash,12:00
+2025-09-09,Meal,90,Dinner meal,Cash,17:22
+2025-09-10,Meal,84,Lunch meal,Cash,12:00
+2025-09-10,Meal,106,Dinner meal,Cash,17:43
+2025-09-11,Meal,87,Lunch meal,Cash,12:00
+2025-09-11,Meal,98,Dinner meal,Cash,20:26
+2025-09-12,Meal,90,Lunch meal,Cash,12:00
+2025-09-12,Meal,85,Dinner meal,Cash,18:35
+2025-09-13,Meal,84,Lunch meal,Card,12:00
+2025-09-13,Meal,173,Dinner meal,Cash,19:00
+2025-09-13,Laundry,60,Weekly laundry expense,,
+2025-09-14,Meal,90,Lunch meal,Cash,12:00
+2025-09-14,Meal,174,Dinner meal,Card,20:43
+2025-09-15,Meal,91,Lunch meal,Cash,12:00
+2025-09-15,Meal,101,Dinner meal,Cash,18:18
+2025-09-16,Meal,87,Lunch meal,Card,12:00
+2025-09-16,Meal,95,Dinner meal,Cash,20:35
+2025-09-17,Meal,86,Lunch meal,Cash,12:00
+2025-09-17,Meal,136,Dinner meal,Cash,17:48
+2025-09-18,Meal,105,Lunch meal,Cash,12:00
+2025-09-18,Meal,107,Dinner meal,Cash,18:19
+2025-09-19,Meal,86,Lunch meal,Card,12:00
+2025-09-19,Coffee,56,Coffee purchase,Cash,12:27
+2025-09-19,Meal,102,Dinner meal,Cash,19:55
+2025-09-20,Meal,84,Lunch meal,Cash,12:00
+2025-09-20,Coffee,56,Coffee purchase,Cash,12:33
+2025-09-20,Meal,127,Dinner meal,Cash,19:38
+2025-09-20,Income,6000,Scholarship income for September 2025,,
+2025-09-20,Laundry,60,Weekly laundry expense,,
+2025-09-21,Meal,98,Lunch meal,Cash,12:00
+2025-09-21,Coffee,60,Coffee purchase,Cash,12:52
+2025-09-21,Meal,245,Dinner meal,Card,17:08
+2025-09-22,Meal,104,Lunch meal,Card,12:00
+2025-09-22,Meal,106,Dinner meal,Cash,18:44
+2025-09-23,Meal,98,Lunch meal,Card,12:00
+2025-09-23,Meal,106,Dinner meal,Cash,20:31
+2025-09-24,Meal,96,Lunch meal,Cash,12:00
+2025-09-24,Coffee,48,Coffee purchase,Card,12:25
+2025-09-24,Meal,110,Dinner meal,Cash,19:29
+2025-09-25,Meal,80,Lunch meal,Card,12:00
+2025-09-25,Meal,134,Dinner meal,Cash,20:40
+2025-09-26,Meal,81,Lunch meal,Cash,12:00
+2025-09-26,Coffee,57,Coffee purchase,Cash,12:47
+2025-09-26,Meal,114,Dinner meal,Cash,19:53
+2025-09-27,Meal,83,Lunch meal,Card,12:00
+2025-09-27,Meal,105,Dinner meal,Card,17:02
+2025-09-27,Laundry,60,Weekly laundry expense,,
+2025-09-28,Meal,91,Lunch meal,Cash,12:00
+2025-09-28,Meal,100,Dinner meal,Card,20:29
+2025-09-29,Meal,85,Lunch meal,Cash,12:00
+2025-09-29,Coffee,43,Coffee purchase,Card,12:39
+2025-09-29,Meal,100,Dinner meal,Cash,19:05
+2025-09-29,Income,5386,Office assistant income for August 2025,,
+2025-09-30,Meal,89,Lunch meal,Card,12:00
+2025-09-30,Coffee,53,Coffee purchase,Card,12:45
+2025-09-30,Meal,100,Dinner meal,Card,18:27
+2025-10-01,Meal,80,Lunch meal,Cash,12:00
+2025-10-01,Coffee,50,Coffee purchase,Cash,12:34
+2025-10-01,Meal,117,Dinner meal,Cash,17:44
+2025-10-01,Income,9000,Parents' income for October 2025,,
+2025-10-01,Transport,310,Monthly transport expense,,
+2025-10-01,Entertainment,99,Spotify subscription (student),,
+2025-10-01,Entertainment,600,ChatGPT Plus subscription,,
+2025-10-01,Entertainment,200,WuxiaWorld subscription,,
+2025-10-01,Groceries,685,Monthly groceries/household items,,
+2025-10-01,Gym,600,Creatine purchase,,
+2025-10-02,Meal,102,Lunch meal,Cash,12:00
+2025-10-02,Meal,82,Dinner meal,Card,18:24
+2025-10-03,Meal,82,Lunch meal,Cash,12:00
+2025-10-03,Coffee,56,Coffee purchase,Card,12:44
+2025-10-03,Meal,150,Dinner meal,Cash,18:41
+2025-10-04,Meal,93,Lunch meal,Cash,12:00
+2025-10-04,Meal,209,Dinner meal,Cash,20:22
+2025-10-04,Laundry,60,Weekly laundry expense,,
+2025-10-05,Meal,83,Lunch meal,Cash,12:00
+2025-10-05,Meal,235,Dinner meal,Cash,18:05
+2025-10-05,Income,2450,Burger King income for October 2025,,
+2025-10-06,Meal,82,Lunch meal,Card,12:00
+2025-10-06,Coffee,46,Coffee purchase,Cash,12:47
+2025-10-06,Meal,82,Dinner meal,Cash,19:41
+2025-10-07,Meal,95,Lunch meal,Cash,12:00
+2025-10-07,Meal,143,Dinner meal,Card,17:54
+2025-10-08,Meal,85,Lunch meal,Cash,12:00
+2025-10-08,Coffee,45,Coffee purchase,Cash,12:45
+2025-10-08,Meal,91,Dinner meal,Cash,18:31
+2025-10-09,Meal,96,Lunch meal,Cash,12:00
+2025-10-09,Meal,147,Dinner meal,Cash,17:23
+2025-10-10,Meal,102,Lunch meal,Cash,12:00
+2025-10-10,Coffee,55,Coffee purchase,Card,12:31
+2025-10-10,Meal,98,Dinner meal,Cash,17:01
+2025-10-11,Meal,85,Lunch meal,Card,12:00
+2025-10-11,Meal,114,Dinner meal,Card,20:32
+2025-10-11,Food & Drink,500,Haidilao with friends,,Evening
+2025-10-11,Laundry,60,Weekly laundry expense,,
+2025-10-12,Meal,100,Lunch meal,Cash,12:00
+2025-10-12,Coffee,50,Coffee purchase,Cash,12:54
+2025-10-12,Meal,103,Dinner meal,Card,17:19
+2025-10-13,Meal,105,Lunch meal,Cash,12:00
+2025-10-13,Coffee,53,Coffee purchase,Card,12:57
+2025-10-13,Meal,101,Dinner meal,Card,17:19
+2025-10-14,Meal,102,Lunch meal,Cash,12:00
+2025-10-14,Coffee,42,Coffee purchase,Cash,12:47
+2025-10-14,Meal,100,Dinner meal,Cash,17:19
+2025-10-15,Meal,84,Lunch meal,Cash,12:00
+2025-10-15,Coffee,43,Coffee purchase,Card,12:20
+2025-10-15,Meal,119,Dinner meal,Card,19:10
+2025-10-16,Meal,102,Lunch meal,Card,12:00
+2025-10-16,Coffee,46,Coffee purchase,Cash,12:21
+2025-10-16,Meal,102,Dinner meal,Cash,17:16
+2025-10-17,Meal,81,Lunch meal,Cash,12:00
+2025-10-17,Coffee,58,Coffee purchase,Cash,12:51
+2025-10-17,Meal,104,Dinner meal,Card,18:16
+2025-10-18,Meal,97,Lunch meal,Cash,12:00
+2025-10-18,Meal,144,Dinner meal,Cash,17:02
+2025-10-18,Laundry,60,Weekly laundry expense,,
+2025-10-19,Meal,80,Lunch meal,Cash,12:00
+2025-10-19,Meal,245,Dinner meal,Cash,18:59
+2025-10-20,Meal,100,Lunch meal,Card,12:00
+2025-10-20,Meal,112,Dinner meal,Card,18:20
+2025-10-20,Income,6000,Scholarship income for October 2025,,
+2025-10-21,Meal,88,Lunch meal,Card,12:00
+2025-10-21,Meal,100,Dinner meal,Cash,17:32
+2025-10-22,Meal,85,Lunch meal,Cash,12:00
+2025-10-22,Coffee,40,Coffee purchase,Cash,12:45
+2025-10-22,Meal,143,Dinner meal,Cash,19:49
+2025-10-23,Meal,94,Lunch meal,Cash,12:00
+2025-10-23,Coffee,56,Coffee purchase,Card,12:56
+2025-10-23,Meal,90,Dinner meal,Card,18:29
+2025-10-24,Meal,105,Lunch meal,Card,12:00
+2025-10-24,Meal,80,Dinner meal,Cash,18:09
+2025-10-25,Meal,85,Lunch meal,Cash,12:00
+2025-10-25,Meal,100,Dinner meal,Cash,17:21
+2025-10-25,Laundry,60,Weekly laundry expense,,
+2025-10-26,Meal,102,Lunch meal,Card,12:00
+2025-10-26,Coffee,60,Coffee purchase,Cash,12:53
+2025-10-26,Meal,207,Dinner meal,Cash,17:09
+2025-10-26,Income,5274,Office assistant income for September 2025,,
+2025-10-27,Meal,104,Lunch meal,Card,12:00
+2025-10-27,Meal,110,Dinner meal,Cash,19:29
+2025-10-28,Meal,82,Lunch meal,Cash,12:00
+2025-10-28,Meal,129,Dinner meal,Cash,17:37
+2025-10-29,Meal,105,Lunch meal,Cash,12:00
+2025-10-29,Coffee,60,Coffee purchase,Cash,12:40
+2025-10-29,Meal,123,Dinner meal,Cash,19:20
+2025-10-30,Meal,105,Lunch meal,Cash,12:00
+2025-10-30,Meal,83,Dinner meal,Cash,17:09
+2025-10-31,Meal,88,Lunch meal,Cash,12:00
+2025-10-31,Coffee,49,Coffee purchase,Cash,12:33
+2025-10-31,Meal,107,Dinner meal,Cash,17:05
+2025-11-01,Meal,101,Lunch meal,Cash,12:00
+2025-11-01,Coffee,42,Coffee purchase,Card,12:40
+2025-11-01,Meal,125,Dinner meal,Cash,19:25
+2025-11-01,Income,9000,Parents' income for November 2025,,
+2025-11-01,Transport,395,Monthly transport expense,,
+2025-11-01,Entertainment,99,Spotify subscription (student),,
+2025-11-01,Entertainment,600,ChatGPT Plus subscription,,
+2025-11-01,Entertainment,200,WuxiaWorld subscription,,
+2025-11-01,Groceries,805,Monthly groceries/household items,,
+2025-11-01,Laundry,60,Weekly laundry expense,,
+2025-11-02,Meal,86,Lunch meal,Card,12:00
+2025-11-02,Coffee,58,Coffee purchase,Cash,12:45
+2025-11-02,Meal,170,Dinner meal,Card,18:06
+2025-11-03,Meal,83,Lunch meal,Cash,12:00
+2025-11-03,Meal,85,Dinner meal,Cash,18:08
+2025-11-04,Meal,97,Lunch meal,Card,12:00
+2025-11-04,Coffee,45,Coffee purchase,Card,12:57
+2025-11-04,Meal,110,Dinner meal,Cash,17:04
+2025-11-05,Meal,100,Lunch meal,Cash,12:00
+2025-11-05,Meal,101,Dinner meal,Cash,19:07
+2025-11-05,Income,3175,Burger King income for November 2025,,
+2025-11-06,Meal,84,Lunch meal,Cash,12:00
+2025-11-06,Meal,100,Dinner meal,Cash,20:31
+2025-11-07,Meal,84,Lunch meal,Cash,12:00
+2025-11-07,Coffee,49,Coffee purchase,Cash,12:37
+2025-11-07,Meal,115,Dinner meal,Cash,18:41
+2025-11-08,Meal,94,Lunch meal,Cash,12:00
+2025-11-08,Coffee,48,Coffee purchase,Cash,12:28
+2025-11-08,Meal,150,Dinner meal,Cash,18:40
+2025-11-08,Laundry,60,Weekly laundry expense,,
+2025-11-09,Meal,80,Lunch meal,Cash,12:00
+2025-11-09,Meal,140,Dinner meal,Cash,20:34
+2025-11-10,Meal,95,Lunch meal,Cash,12:00
+2025-11-10,Coffee,46,Coffee purchase,Cash,12:21
+2025-11-10,Meal,141,Dinner meal,Cash,19:03
+2025-11-11,Meal,89,Lunch meal,Cash,12:00
+2025-11-11,Coffee,41,Coffee purchase,Cash,12:30
+2025-11-11,Meal,105,Dinner meal,Card,19:34
+2025-11-12,Meal,80,Lunch meal,Card,12:00
+2025-11-12,Coffee,47,Coffee purchase,Card,12:44
+2025-11-12,Meal,86,Dinner meal,Cash,18:11
+2025-11-13,Meal,99,Lunch meal,Cash,12:00
+2025-11-13,Meal,97,Dinner meal,Cash,19:36
+2025-11-14,Meal,85,Lunch meal,Card,12:00
+2025-11-14,Meal,89,Dinner meal,Cash,20:34
+2025-11-15,Meal,81,Lunch meal,Cash,12:00
+2025-11-15,Coffee,50,Coffee purchase,Cash,12:53
+2025-11-15,Meal,106,Dinner meal,Card,18:51
+2025-11-15,Laundry,60,Weekly laundry expense,,
+2025-11-16,Meal,104,Lunch meal,Card,12:00
+2025-11-16,Coffee,42,Coffee purchase,Card,12:21
+2025-11-16,Meal,116,Dinner meal,Cash,18:49
+2025-11-17,Meal,89,Lunch meal,Cash,12:00
+2025-11-17,Meal,105,Dinner meal,Cash,20:37
+2025-11-18,Meal,83,Lunch meal,Cash,12:00
+2025-11-18,Meal,115,Dinner meal,Card,20:41
+2025-11-19,Meal,94,Lunch meal,Card,12:00
+2025-11-19,Meal,100,Dinner meal,Card,19:14
+2025-11-20,Meal,90,Lunch meal,Card,12:00
+2025-11-20,Coffee,55,Coffee purchase,Card,12:31
+2025-11-20,Meal,110,Dinner meal,Card,20:54
+2025-11-20,Income,6000,Scholarship income for November 2025,,
+2025-11-21,Meal,80,Lunch meal,Cash,12:00
+2025-11-21,Meal,97,Dinner meal,Card,18:40
+2025-11-22,Meal,83,Lunch meal,Card,12:00
+2025-11-22,Coffee,43,Coffee purchase,Card,12:40
+2025-11-22,Meal,207,Dinner meal,Cash,17:52
+2025-11-22,Laundry,60,Weekly laundry expense,,
+2025-11-23,Meal,103,Lunch meal,Cash,12:00
+2025-11-23,Coffee,55,Coffee purchase,Cash,12:35
+2025-11-23,Meal,100,Dinner meal,Cash,17:46
+2025-11-24,Meal,99,Lunch meal,Card,12:00
+2025-11-24,Meal,119,Dinner meal,Cash,20:56
+2025-11-25,Meal,82,Lunch meal,Cash,12:00
+2025-11-25,Meal,94,Dinner meal,Card,18:10
+2025-11-26,Meal,80,Lunch meal,Cash,12:00
+2025-11-26,Coffee,40,Coffee purchase,Cash,12:26
+2025-11-26,Meal,102,Dinner meal,Cash,20:10
+2025-11-27,Meal,103,Lunch meal,Cash,12:00
+2025-11-27,Meal,80,Dinner meal,Card,20:45
+2025-11-28,Meal,84,Lunch meal,Card,12:00
+2025-11-28,Coffee,46,Coffee purchase,Card,12:26
+2025-11-28,Meal,128,Dinner meal,Card,20:44
+2025-11-28,Income,5136,Office assistant income for October 2025,,
+2025-11-29,Meal,94,Lunch meal,Cash,12:00
+2025-11-29,Coffee,40,Coffee purchase,Cash,12:26
+2025-11-29,Meal,102,Dinner meal,Cash,20:09
+2025-11-29,Laundry,60,Weekly laundry expense,,
+2025-11-30,Meal,81,Lunch meal,Card,12:00
+2025-11-30,Meal,114,Dinner meal,Cash,20:12
+2025-12-01,Meal,96,Lunch meal,Card,12:00
+2025-12-01,Meal,104,Dinner meal,Cash,17:19
+2025-12-01,Income,9000,Parents' income for December 2025,,
+2025-12-01,Transport,249,Monthly transport expense,,
+2025-12-01,Entertainment,99,Spotify subscription (student),,
+2025-12-01,Entertainment,600,ChatGPT Plus subscription,,
+2025-12-01,Entertainment,200,WuxiaWorld subscription,,
+2025-12-01,Groceries,690,Monthly groceries/household items,,
+2025-12-01,Gym,600,Creatine purchase,,
+2025-12-02,Meal,103,Lunch meal,Cash,12:00
+2025-12-02,Meal,119,Dinner meal,Cash,20:11
+2025-12-03,Meal,84,Lunch meal,Cash,12:00
+2025-12-03,Meal,105,Dinner meal,Cash,19:14
+2025-12-04,Meal,83,Lunch meal,Cash,12:00
+2025-12-04,Coffee,57,Coffee purchase,Cash,12:42
+2025-12-04,Meal,81,Dinner meal,Cash,18:35
+2025-12-05,Meal,93,Lunch meal,Card,12:00
+2025-12-05,Meal,107,Dinner meal,Cash,20:36
+2025-12-05,Income,2835,Burger King income for December 2025,,
+2025-12-06,Meal,81,Lunch meal,Card,12:00
+2025-12-06,Meal,148,Dinner meal,Cash,18:07
+2025-12-06,Laundry,60,Weekly laundry expense,,
+2025-12-07,Meal,105,Lunch meal,Cash,12:00
+2025-12-07,Coffee,42,Coffee purchase,Cash,12:32
+2025-12-07,Meal,150,Dinner meal,Cash,20:12
+2025-12-08,Meal,101,Lunch meal,Cash,12:00
+2025-12-08,Meal,120,Dinner meal,Cash,17:05
+2025-12-09,Meal,88,Lunch meal,Cash,12:00
+2025-12-09,Meal,135,Dinner meal,Cash,17:50
+2025-12-10,Meal,100,Lunch meal,Cash,12:00
+2025-12-10,Coffee,52,Coffee purchase,Card,12:56
+2025-12-10,Meal,83,Dinner meal,Card,17:59
+2025-12-11,Meal,100,Lunch meal,Card,12:00
+2025-12-11,Meal,91,Dinner meal,Cash,20:16
+2025-12-12,Meal,95,Lunch meal,Cash,12:00
+2025-12-12,Coffee,53,Coffee purchase,Cash,12:29
+2025-12-12,Meal,120,Dinner meal,Card,20:02
+2025-12-13,Meal,98,Lunch meal,Cash,12:00
+2025-12-13,Meal,119,Dinner meal,Cash,19:57
+2025-12-13,Laundry,60,Weekly laundry expense,,
+2025-12-14,Meal,100,Lunch meal,Cash,12:00
+2025-12-14,Meal,134,Dinner meal,Cash,17:55
+2025-12-15,Meal,99,Lunch meal,Card,12:00
+2025-12-15,Coffee,52,Coffee purchase,Cash,12:46
+2025-12-15,Meal,146,Dinner meal,Cash,20:13
+2025-12-16,Meal,92,Lunch meal,Cash,12:00
+2025-12-16,Coffee,50,Coffee purchase,Cash,12:23
+2025-12-16,Meal,95,Dinner meal,Cash,19:45
+2025-12-17,Meal,102,Lunch meal,Card,12:00
+2025-12-17,Coffee,58,Coffee purchase,Cash,12:32
+2025-12-17,Meal,80,Dinner meal,Cash,17:15
+2025-12-18,Meal,89,Lunch meal,Cash,12:00
+2025-12-18,Coffee,50,Coffee purchase,Cash,12:49
+2025-12-18,Meal,100,Dinner meal,Cash,17:43
+2025-12-19,Meal,95,Lunch meal,Cash,12:00
+2025-12-19,Meal,85,Dinner meal,Card,19:22
+2025-12-20,Meal,99,Lunch meal,Cash,12:00
+2025-12-20,Coffee,40,Coffee purchase,Card,12:44
+2025-12-20,Meal,110,Dinner meal,Cash,18:54
+2025-12-20,Income,6000,Scholarship income for December 2025,,
+2025-12-20,Laundry,60,Weekly laundry expense,,
+2025-12-21,Meal,85,Lunch meal,Cash,12:00
+2025-12-21,Meal,237,Dinner meal,Cash,17:30
+2025-12-22,Meal,95,Lunch meal,Cash,12:00
+2025-12-22,Coffee,55,Coffee purchase,Card,12:39
+2025-12-22,Meal,108,Dinner meal,Card,19:27
+2025-12-23,Meal,91,Lunch meal,Cash,12:00
+2025-12-23,Coffee,57,Coffee purchase,Cash,12:53
+2025-12-23,Meal,125,Dinner meal,Cash,17:00
+2025-12-24,Meal,101,Lunch meal,Cash,12:00
+2025-12-24,Meal,135,Dinner meal,Cash,19:19
+2025-12-25,Meal,88,Lunch meal,Cash,12:00
+2025-12-25,Coffee,45,Coffee purchase,Card,12:37
+2025-12-25,Meal,107,Dinner meal,Card,19:12
+2025-12-26,Meal,103,Lunch meal,Card,12:00
+2025-12-26,Meal,90,Dinner meal,Cash,20:42
+2025-12-27,Meal,80,Lunch meal,Cash,12:00
+2025-12-27,Coffee,48,Coffee purchase,Card,12:46
+2025-12-27,Meal,210,Dinner meal,Cash,18:21
+2025-12-27,Laundry,60,Weekly laundry expense,,
+2025-12-28,Meal,94,Lunch meal,Card,12:00
+2025-12-28,Meal,115,Dinner meal,Cash,19:32
+2025-12-29,Meal,97,Lunch meal,Cash,12:00
+2025-12-29,Coffee,42,Coffee purchase,Cash,12:50
+2025-12-29,Meal,145,Dinner meal,Cash,18:43
+2025-12-30,Meal,85,Lunch meal,Cash,12:00
+2025-12-30,Meal,107,Dinner meal,Cash,20:50
+2025-12-30,Income,5437,Office assistant income for November 2025,,
+2025-12-31,Meal,95,Lunch meal,Cash,12:00
+2025-12-31,Coffee,58,Coffee purchase,Cash,12:23
+2025-12-31,Meal,107,Dinner meal,Cash,17:30
