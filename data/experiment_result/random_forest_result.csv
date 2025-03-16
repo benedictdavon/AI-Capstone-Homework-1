@@ -1,9 +1,9 @@
-feature_set,RMSE,best_params,best_rf,features,feature_importance
+feature_set,RMSE,best_params,best_rf,features,feature_importance,cross_validation_RMSE,cross_validation_RMSE_mean,cross_validation_RMSE_std
 A,38.66275658792042,"{'bootstrap': True, 'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 100}","RandomForestRegressor(max_depth=20, max_features='sqrt', min_samples_leaf=4,
-                      random_state=42)","['DayOfWeek', 'IsWeekend', 'Month', 'Day']",[0.40631952 0.28296545 0.1443955  0.16631953]
+                      random_state=42)","['DayOfWeek', 'IsWeekend', 'Month', 'Day']",[0.40631952 0.28296545 0.1443955  0.16631953],[0.14123133 0.18620571 0.15099621 0.19368341 0.16927219],0.16827776916692772,0.019990040177141778
 B,39.3385956464684,"{'bootstrap': True, 'max_depth': 10, 'max_features': 'sqrt', 'min_samples_leaf': 8, 'min_samples_split': 2, 'n_estimators': 100}","RandomForestRegressor(max_depth=10, max_features='sqrt', min_samples_leaf=8,
-                      random_state=42)","['DayOfWeek', 'IsWeekend', 'Month', 'Day', 'Lag1']",[0.40634969 0.31462349 0.06491857 0.07310308 0.14100518]
+                      random_state=42)","['DayOfWeek', 'IsWeekend', 'Month', 'Day', 'Lag1']",[0.40634969 0.31462349 0.06491857 0.07310308 0.14100518],[0.13739528 0.17689063 0.15231579 0.19879546 0.16225005],0.16552944218569143,0.02103611466426487
 C,37.275187253048614,"{'bootstrap': True, 'max_depth': 10, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 100}","RandomForestRegressor(max_depth=10, max_features='sqrt', min_samples_leaf=4,
-                      random_state=42)","['DayOfWeek', 'IsWeekend', 'Month', 'Day', 'Rolling7']",[0.33504271 0.23946563 0.07824146 0.10896939 0.23828081]
+                      random_state=42)","['DayOfWeek', 'IsWeekend', 'Month', 'Day', 'Rolling7']",[0.33504271 0.23946563 0.07824146 0.10896939 0.23828081],[0.12797353 0.17395989 0.14638658 0.17412378 0.15168051],0.15482485750497763,0.017553818642204157
 D,36.19773875656066,"{'bootstrap': True, 'max_depth': 10, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 200}","RandomForestRegressor(max_depth=10, max_features='sqrt', min_samples_leaf=4,
-                      n_estimators=200, random_state=42)","['DayOfWeek', 'IsWeekend', 'Month', 'Day', 'Lag1', 'Rolling7']",[0.29275436 0.2293792  0.05448895 0.07924681 0.13043235 0.21369833]
+                      n_estimators=200, random_state=42)","['DayOfWeek', 'IsWeekend', 'Month', 'Day', 'Lag1', 'Rolling7']",[0.29275436 0.2293792  0.05448895 0.07924681 0.13043235 0.21369833],[0.12514251 0.16964064 0.14900217 0.17844627 0.1477058 ],0.1539874791836075,0.018652610616576897
