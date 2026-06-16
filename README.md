@@ -233,13 +233,15 @@ python -m pytest tests
 Main outputs:
 
 ```text
+results/figures/clustering_metrics.png
+results/figures/feature_importance_full_behavioral.png
+results/figures/spending_clusters_pca.png
+results/figures/supervised_rmse_by_feature_set.png
 results/metrics/dataset_comparison.csv
 results/metrics/supervised_metrics.csv
 results/metrics/clustering_metrics.csv
 results/tables/feature_importance.csv
-results/tables/supervised_predictions.csv
 results/tables/cluster_assignments.csv
-results/figures/*.png
 ```
 
 ## Notes

@@ -30,7 +30,15 @@ data/processed/**/*.csv
 results/figures/*.png
 results/tables/*.csv
 results/metrics/*.csv
+!results/figures/clustering_metrics.png
+!results/figures/feature_importance_full_behavioral.png
+!results/figures/spending_clusters_pca.png
+!results/figures/supervised_rmse_by_feature_set.png
+!results/metrics/clustering_metrics.csv
 !results/metrics/dataset_comparison.csv
+!results/metrics/supervised_metrics.csv
+!results/tables/cluster_assignments.csv
+!results/tables/feature_importance.csv
 outputs/
 output/
 models/
