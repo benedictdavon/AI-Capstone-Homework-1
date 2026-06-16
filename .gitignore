@@ -22,19 +22,30 @@ build/
 dist/
 *.egg-info/
 
-# Local generated artifacts
+# Generated data and outputs
+data/raw/*.csv
+data/processed/*.csv
+results/figures/*.png
+results/tables/*.csv
+results/metrics/*.csv
 outputs/
 output/
 models/
 *.joblib
 *.pkl
 
+# Keep directory placeholders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!results/figures/.gitkeep
+!results/tables/.gitkeep
+!results/metrics/.gitkeep
+
 # Local data scratch space
 local_data/
 data/local/
 data/generated/
 data/interim/
-data/processed/
 
 # OS/editor files
 .DS_Store
