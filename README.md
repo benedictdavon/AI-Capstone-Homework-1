@@ -85,6 +85,13 @@ data/processed/daily_person_features.csv
 
 Generated data is ignored by git and can be recreated from the scripts
 
+Two generators are available:
+
+- `scripts/generate_data.py` for the original baseline synthetic data
+- `scripts/generate_realistic_data.py` for scenario-based data with longer histories, inflation, heavy-tailed purchases, balance effects, and missed log days
+
+See `scripts/README.md` for details on the data generation process
+
 ## Modeling
 
 Supervised model:

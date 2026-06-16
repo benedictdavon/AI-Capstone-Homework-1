@@ -3,6 +3,7 @@
 __all__ = [
     "config",
     "data_generator",
+    "data_generator_realistic",
     "preprocessing",
     "features",
     "supervised",

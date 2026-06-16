@@ -24,7 +24,9 @@ dist/
 
 # Generated data and outputs
 data/raw/*.csv
+data/raw/**/*.csv
 data/processed/*.csv
+data/processed/**/*.csv
 results/figures/*.png
 results/tables/*.csv
 results/metrics/*.csv
