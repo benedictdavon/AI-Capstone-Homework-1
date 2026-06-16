@@ -27,6 +27,7 @@ def load_transactions(path: str | Path) -> pd.DataFrame:
 
 def aggregate_daily_transactions(transactions: pd.DataFrame) -> pd.DataFrame:
     df = transactions.copy()
+    df["date"] = pd.to_datetime(df["date"])
     df["signed_amount"] = df["amount_ntd"].where(df["transaction_type"] == "income", -df["amount_ntd"])
     expense = (
         df[df["transaction_type"] == "expense"]
@@ -40,10 +41,25 @@ def aggregate_daily_transactions(transactions: pd.DataFrame) -> pd.DataFrame:
         .sum()
         .rename(columns={"amount_ntd": "daily_income_ntd"})
     )
+    category_expense = (
+        df[df["transaction_type"] == "expense"]
+        .pivot_table(
+            index=["person_id", "profile_type", "date"],
+            columns="category",
+            values="amount_ntd",
+            aggfunc="sum",
+            fill_value=0,
+        )
+        .add_prefix("category_expense_")
+        .reset_index()
+    )
     calendar = df[["person_id", "profile_type", "date", "day_of_week", "is_weekend", "month", "payday_distance"]].drop_duplicates()
     daily = calendar.merge(expense, on=["person_id", "profile_type", "date"], how="left")
     daily = daily.merge(income, on=["person_id", "profile_type", "date"], how="left")
+    daily = daily.merge(category_expense, on=["person_id", "profile_type", "date"], how="left")
     daily[["daily_expense_ntd", "daily_income_ntd"]] = daily[["daily_expense_ntd", "daily_income_ntd"]].fillna(0)
+    category_columns = [column for column in daily.columns if column.startswith("category_expense_")]
+    daily[category_columns] = daily[category_columns].fillna(0)
     daily["net_cash_flow_ntd"] = daily["daily_income_ntd"] - daily["daily_expense_ntd"]
     return daily.sort_values(["person_id", "date"]).reset_index(drop=True)
 

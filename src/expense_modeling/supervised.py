@@ -9,13 +9,14 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 
 from .evaluation import regression_metrics
-from .features import BASE_NUMERIC_FEATURES, TIME_FEATURES, build_model_matrix
+from .features import BASE_NUMERIC_FEATURES, TIME_FEATURES, build_model_matrix, get_advanced_feature_columns
 
 FEATURE_SETS = {
     "calendar_only": BASE_NUMERIC_FEATURES,
     "calendar_lag": BASE_NUMERIC_FEATURES + ["lag1_expense_ntd"],
     "calendar_rolling": BASE_NUMERIC_FEATURES + ["rolling7_expense_ntd"],
     "full_behavioral": BASE_NUMERIC_FEATURES + TIME_FEATURES,
+    "advanced_behavioral": get_advanced_feature_columns(),
 }
 
 
@@ -24,6 +25,49 @@ def _time_based_split(frame: pd.DataFrame, test_fraction: float = 0.2) -> tuple[
     train_mask = frame["date"] <= cutoff
     test_mask = frame["date"] > cutoff
     return train_mask, test_mask
+
+
+def _baseline_cv_rmse(y: pd.Series, predictions: pd.Series) -> tuple[float, float]:
+    cv = TimeSeriesSplit(n_splits=5)
+    scores = []
+    for _, test_index in cv.split(y):
+        metrics = regression_metrics(y.iloc[test_index], predictions.iloc[test_index])
+        scores.append(metrics["rmse"])
+    score_series = pd.Series(scores)
+    return float(score_series.mean()), float(score_series.std())
+
+
+def _add_baseline_rows(
+    metrics_rows: list[dict],
+    prediction_frames: list[pd.DataFrame],
+    frame: pd.DataFrame,
+    X_all: pd.DataFrame,
+    y: pd.Series,
+    test_mask: pd.Series,
+) -> None:
+    baselines = {
+        "person_expanding_mean_baseline": X_all["person_expanding_mean_expense_ntd"],
+        "person_weekday_weekend_baseline": X_all["person_weekend_or_weekday_baseline_ntd"],
+    }
+    for baseline_name, baseline_predictions in baselines.items():
+        predictions = baseline_predictions.fillna(0)
+        metrics = regression_metrics(y.loc[test_mask], predictions.loc[test_mask])
+        cv_mean, cv_std = _baseline_cv_rmse(y, predictions)
+        metrics_rows.append(
+            {
+                "feature_set": baseline_name,
+                "num_features": 0,
+                "test_rmse": metrics["rmse"],
+                "test_mae": metrics["mae"],
+                "test_r2": metrics["r2"],
+                "cv_rmse_mean": cv_mean,
+                "cv_rmse_std": cv_std,
+            }
+        )
+        prediction_frame = frame.loc[test_mask, ["person_id", "profile_type", "date", "daily_expense_ntd"]].copy()
+        prediction_frame["feature_set"] = baseline_name
+        prediction_frame["predicted_daily_expense_ntd"] = predictions.loc[test_mask]
+        prediction_frames.append(prediction_frame)
 
 
 def train_supervised_models(daily: pd.DataFrame, seed: int = 42) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
@@ -39,8 +83,10 @@ def train_supervised_models(daily: pd.DataFrame, seed: int = 42) -> tuple[pd.Dat
     importance_rows: list[dict] = []
     prediction_frames: list[pd.DataFrame] = []
 
+    _add_baseline_rows(metrics_rows, prediction_frames, frame, X_all, y, test_mask)
+
     for feature_set, numeric_features in FEATURE_SETS.items():
-        selected_features = numeric_features + profile_features + person_features
+        selected_features = [feature for feature in numeric_features if feature in X_all.columns] + profile_features + person_features
         model = RandomForestRegressor(
             n_estimators=250,
             max_depth=16,
