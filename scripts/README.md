@@ -55,6 +55,27 @@ python scripts/run_supervised.py --transactions data/raw/realistic_expense_trans
 python scripts/run_clustering.py --transactions data/raw/realistic_expense_transactions.csv
 ```
 
+## Dataset Comparison
+
+Run the full comparison matrix:
+
+```bash
+python scripts/run_dataset_comparison.py --num-people 50 --seed 42 --annual-inflation-rate 0.025
+```
+
+Output:
+
+```text
+results/metrics/dataset_comparison.csv
+```
+
+The comparison currently includes:
+
+- baseline synthetic
+- `simple_rules` for 1 year
+- `realistic_mixed` for 1, 2, 3, and 5 years
+- `stress_test` for 1 year
+
 ## Duration Options
 
 The realistic generator supports longer spending histories:

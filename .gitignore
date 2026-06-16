@@ -30,6 +30,7 @@ data/processed/**/*.csv
 results/figures/*.png
 results/tables/*.csv
 results/metrics/*.csv
+!results/metrics/dataset_comparison.csv
 outputs/
 output/
 models/

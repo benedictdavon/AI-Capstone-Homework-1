@@ -37,6 +37,34 @@ Supervised comparison:
 
 The advanced feature set improves the earlier score by adding historical person behavior, category-level rolling spend, income timing, and calendar features
 
+## Dataset Comparison
+
+Full comparison command:
+
+```bash
+python scripts/run_dataset_comparison.py --num-people 50 --seed 42 --annual-inflation-rate 0.025
+```
+
+Output:
+
+```text
+results/metrics/dataset_comparison.csv
+```
+
+| Dataset | Years | Rows | Missing days | Best RMSE | Best MAE | Best R2 | Selected k | Silhouette |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| `baseline_synthetic` | 1 | 51,005 | 0 | 237.34 | 107.23 | 0.655 | 6 | 0.581 |
+| `simple_rules_1y` | 1 | 42,691 | 101 | 411.55 | 201.04 | 0.762 | 2 | 0.364 |
+| `realistic_mixed_1y` | 1 | 41,235 | 277 | 1024.76 | 249.70 | 0.351 | 7 | 0.364 |
+| `realistic_mixed_2y` | 2 | 81,777 | 594 | 616.37 | 227.49 | 0.633 | 2 | 0.354 |
+| `realistic_mixed_3y` | 3 | 122,322 | 850 | 553.56 | 213.29 | 0.730 | 3 | 0.370 |
+| `realistic_mixed_5y` | 5 | 202,807 | 1,478 | 1007.97 | 258.27 | 0.280 | 4 | 0.402 |
+| `stress_test_1y` | 1 | 38,141 | 508 | 5244.42 | 653.15 | -0.055 | 2 | 0.714 |
+
+The realistic and stress-test datasets are much harder than the baseline data
+
+Longer realistic histories help the model learn more stable patterns for 2-year and 3-year runs, while the 5-year run is harder because inflation, shocks, and missing logs accumulate
+
 ## Problem
 
 Predict daily spending for synthetic students and group people with similar spending habits
@@ -145,8 +173,10 @@ AI-Capstone-Homework-1/
 |       `-- visualization.py
 |-- scripts/
 |   |-- generate_data.py
+|   |-- generate_realistic_data.py
 |   |-- run_supervised.py
 |   |-- run_clustering.py
+|   |-- run_dataset_comparison.py
 |   `-- run_all.py
 `-- tests/
     |-- test_data_generator.py
@@ -203,6 +233,7 @@ python -m pytest tests
 Main outputs:
 
 ```text
+results/metrics/dataset_comparison.csv
 results/metrics/supervised_metrics.csv
 results/metrics/clustering_metrics.csv
 results/tables/feature_importance.csv
