@@ -96,22 +96,22 @@ Generated result artifacts are stored in `data/experiment_result/`:
 
 ```text
 .
-├── ETL & Exploration.ipynb
-├── training.ipynb
-├── generate_data.py
-├── requirements.txt
-├── README.md
-├── HW1.pdf
-└── data/
-    ├── daily_expenses.csv
-    └── experiment_result/
-        ├── random_forest_result.csv
-        ├── random_forest_comparison.png
-        ├── kmeans_comparison_chart.png
-        ├── kmeans_pca_comparison.png
-        ├── cluster_assignment_changes.png
-        ├── train_test_cluster_distribution_k_6.png
-        └── train_test_cluster_distribution_multiple_offsets_and_k_vals.png
+|-- ETL & Exploration.ipynb
+|-- training.ipynb
+|-- generate_data.py
+|-- requirements.txt
+|-- README.md
+|-- HW1.pdf
+`-- data/
+    |-- daily_expenses.csv
+    `-- experiment_result/
+        |-- random_forest_result.csv
+        |-- random_forest_comparison.png
+        |-- kmeans_comparison_chart.png
+        |-- kmeans_pca_comparison.png
+        |-- cluster_assignment_changes.png
+        |-- train_test_cluster_distribution_k_6.png
+        `-- train_test_cluster_distribution_multiple_offsets_and_k_vals.png
 ```
 
 ## Setup
